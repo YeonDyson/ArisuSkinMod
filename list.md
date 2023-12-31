@@ -1,0 +1,61 @@
+## Vanilla
+| Animation State  | Completed |
+|----------------- |:---------:|
+| Idle             | [o]       |
+| IdleA            | [ ]       |
+| IdleB            | [ ]       |
+| IdleC            | [ ]       |
+| bigfall          | [ ]       |
+| bubble           | [ ]       |
+| carrytheo_collapse| [ ]       |
+| climb            | [ ]       |
+| dangling         | [ ]       |
+| dash             | [ ]       |
+| deaddown         | [ ]       |
+| deadside         | [ ]       |
+| deadup           | [ ]       |
+| death_h          | [ ]       |
+| dreamDash        | [ ]       |
+| duck             | [ ]       |
+| edge_back        | [ ]       |
+| edge             | [ ]       |
+| faint            | [ ]       |
+| fall             | [ ]       |
+| fallPose         | [ ]       |
+| flip             | [ ]       |
+| halfWakeUp       | [ ]       |
+| hug              | [ ]       |
+| idle_carry       | [ ]       |
+| jump_carry       | [ ]       |
+| jumpFast         | [ ]       |
+| jumpSlow         | [ ]       |
+| launch           | [ ]       |
+| launchReco       | [ ]       |
+| lookUp           | [ ]       |
+| pickup           | [ ]       |
+| push             | [ ]       |
+| run_carry        | [ ]       |
+| run_wind         | [ ]       |
+| runFast          | [ ]       |
+| runSlow          | [ ]       |
+| runStumble       | [ ]       |
+| shaking          | [ ]       |
+| sitDown          | [ ]       |
+| sleep            | [ ]       |
+| slide            | [ ]       |
+| spin             | [ ]       |
+| starFly          | [ ]       |
+| starMorph        | [ ]       |
+| startStarFly     | [ ]       |
+| startStarFlyWhitr| [ ]       |
+| swim             | [ ]       |
+| throw            | [ ]       |
+| tired            | [ ]       |
+| walk_carry_theo  | [ ]       |
+| walk             | [ ]       |
+| grab             | [ ]       |
+| wakeUp           | [ ]       |
+| phone            | [ ]       |
+| booster          | [ ]       |
+| boosterRed       | [ ]       |
+| lookout          | [ ]       |

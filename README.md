@@ -1,2 +1,0 @@
-# ArisuSkinMod
-Celeste skin
