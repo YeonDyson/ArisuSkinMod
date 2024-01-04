@@ -3,7 +3,7 @@
 |--------------------|:---------:|
 | Idle               |    [o]    |
 | IdleA              |    [ ]    |
-| IdleB              |    [ ]    |
+| IdleB              |    [o]    |
 | IdleC              |    [ ]    |
 | bigfall            |    [ ]    |
 | bubble             |    [ ]    |
